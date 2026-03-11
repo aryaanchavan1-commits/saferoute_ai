@@ -172,12 +172,10 @@ import streamlit as st
 mongo_url = st.secrets.get("mongo_db_url", "")
 ```
 
-## 📄 License
-
-This project is built for the CODE 1 Hackathon 2026.
 
 ---
 
 <p align="center">
   🚗 Made with ❤️ for safer Indian roads
 </p>
+
